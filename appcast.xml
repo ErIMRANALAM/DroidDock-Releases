@@ -7,6 +7,18 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>DroidDock 1.0.2</title>
+      <pubDate>Mon, 09 Nov 2026 11:14:57 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changed</h3>
+<ul><li>The Terms of Use now say which law governs them (the laws of India). Because the Terms changed, you are asked to accept them once more the first time you open this version.</li></ul>
+<h3>Improved</h3>
+<ul><li>A new look for the installer window: a clear "drag DroidDock onto Applications" background.</li></ul>]]></description>
+      <enclosure url="https://github.com/ErIMRANALAM/DroidDock-Releases/releases/download/v1.0.2/DroidDock-1.0.2.dmg" sparkle:edSignature="PSM4niwALOfnETulglpozEUOsFVQLsOFDBqF5vMfuT6MDWexhis5ylwZeL4Lja68LXK1k6HBsk/4+idNvzWOCg==" length="22279251" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DroidDock 1.0.1</title>
       <pubDate>Mon, 09 Nov 2026 10:34:29 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
