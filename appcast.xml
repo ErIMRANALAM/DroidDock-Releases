@@ -7,6 +7,16 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>DroidDock 1.0.1</title>
+      <pubDate>Mon, 09 Nov 2026 10:34:29 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changed</h3>
+<ul><li>DroidDock now identifies itself as <code>com.ourappsworld.app.droiddock.macos</code>. Because the identifier is new, macOS treats it as a fresh install of the settings: you are asked to accept the Terms once more, and the update options start at their defaults. Your virtual devices, recordings and logs are untouched, as they never lived in the app's settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/ErIMRANALAM/DroidDock-Releases/releases/download/v1.0.1/DroidDock-1.0.1.dmg" sparkle:edSignature="CYGuzf0ygBFj3TI3E4Oa8cAlxJ960iC06Th3JXBMHLPgwgPbCERCrn3esyX9E1hk69d7vnLrQB7oF4jipUc0AA==" length="21581279" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DroidDock 1.0.0</title>
       <pubDate>Mon, 09 Nov 2026 10:17:53 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
