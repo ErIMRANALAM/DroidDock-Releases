@@ -16,19 +16,5 @@
 <ul><li>DroidDock now identifies itself as <code>com.ourappsworld.app.droiddock.macos</code>. Because the identifier is new, macOS treats it as a fresh install of the settings: you are asked to accept the Terms once more, and the update options start at their defaults. Your virtual devices, recordings and logs are untouched, as they never lived in the app's settings.</li></ul>]]></description>
       <enclosure url="https://github.com/ErIMRANALAM/DroidDock-Releases/releases/download/v1.0.1/DroidDock-1.0.1.dmg" sparkle:edSignature="CYGuzf0ygBFj3TI3E4Oa8cAlxJ960iC06Th3JXBMHLPgwgPbCERCrn3esyX9E1hk69d7vnLrQB7oF4jipUc0AA==" length="21581279" type="application/octet-stream"/>
     </item>
-    <item>
-      <title>DroidDock 1.0.0</title>
-      <pubDate>Mon, 09 Nov 2026 10:17:53 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>New</h3>
-<ul><li><b>In-app updates.</b> DroidDock checks once a day for a newer version, shows a banner when there is one, and installs it for you. Choose <b>DroidDock › Check for Updates…</b> to check right now. Updates are signed and verified before they install, and you can turn automatic checks off in <b>Settings</b>.</li><li><b>About &amp; developer page</b> with the developer and publisher contacts, your version, update status and links to the Terms, Privacy Policy and Acknowledgements.</li><li><b>Settings window</b> (⌘,) for updates and for keeping the display awake while devices run.</li><li><b>User manual</b> gained <i>Updates</i> and <i>About the developer</i> sections.</li></ul>
-<h3>Improved</h3>
-<ul><li>A cleaner look: device rows with a status badge, a clearer stopped-device page with the screen, graphics and system at a glance, a rounded button bar under the screen, and a version line in the sidebar.</li><li>If the Android SDK is missing, the screen now links straight to Android Studio and the manual.</li></ul>
-<h3>Good to know</h3>
-<ul><li>DroidDock is <b>free</b>: no subscription, no licence key, no ads.</li><li>The only thing the app sends online is the update check, which asks GitHub for the list of versions. The Terms and Privacy Policy say so, so you are asked to accept them again once.</li></ul>]]></description>
-      <enclosure url="https://github.com/ErIMRANALAM/DroidDock-Releases/releases/download/v1.0.0/DroidDock-1.0.0.dmg" sparkle:edSignature="cNWkq4CZAltq1av5JACD93YiUt7SrNpCRudcc6EoKdPEtZNTuNL9fxMoaxHW9EX2zYzJrvaajfh+F8dTZEl7Cw==" length="21581282" type="application/octet-stream"/>
-    </item>
   </channel>
 </rss>
